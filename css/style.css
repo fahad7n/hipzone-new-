@@ -8435,7 +8435,7 @@ clip-path: polygon(0% 120px, 50% 60px, 100% 0%, 100% 100%, 50% calc(100% - 60px)
 
 .team-block .image-box .image img{
 	display: block;
-	width: 100%;
+	
 }
 
 .team-block .overlay-box{
